@@ -1,5 +1,6 @@
-# leangit
-## it is leaning git for me
-### it's me
-*** 커밋 10번하기
+# 오픈소스 sw 2번째 과제
+***
+## 리눅스 명령어
+---
+## vim 에디터
 
