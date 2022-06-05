@@ -13,13 +13,13 @@
 <img width="400" alt="스크린샷 2022-06-05 오후 9 08 13" src="https://user-images.githubusercontent.com/89345428/172049719-eb66fc8b-8ba6-45f1-ad36-fd94bfa8f5c3.png">
 (q를 누르면 꺼진다.)
 
-###ps
+### ps
 
-###jobs
+### jobs
 
-###kill
+### kill
 
 ## vim 에디터
 
-###매크로 사용 방법(q)
+### 매크로 사용 방법(q)
 
