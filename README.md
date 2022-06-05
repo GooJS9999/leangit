@@ -10,8 +10,7 @@
 [출처](https://sabarada.tistory.com/146)
 
 #### 사용예시
-<img width="400" alt="스크린샷 2022-06-05 오후 9 08 13" src="https://user-images.githubusercontent.com/89345428/172049719-eb66fc8b-8ba6-45f1-ad36-fd94bfa8f5c3.png">
-(q를 누르면 꺼진다.)
+<img width="400" alt="스크린샷 2022-06-05 오후 9 08 13" src="https://user-images.githubusercontent.com/89345428/172049719-eb66fc8b-8ba6-45f1-ad36-fd94bfa8f5c3.png">(q를 누르면 꺼진다.)
 
 ### ps
 
