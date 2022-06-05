@@ -48,3 +48,8 @@
 >그 뒤 @매크로이름을 입력하면 매크로가 실행된다.
 [출처](https://forcecore.tistory.com/1255)
 
+
+#### 사용예시
+<img width="400" alt="스크린샷 2022-06-05 오후 9 25 57" src="https://user-images.githubusercontent.com/89345428/172050289-2b83d7b6-11c5-4f8f-b00c-84c288329b39.png">(기록중, 또는 recording 상태에서 매크로를 입력하는 장면)
+
+
