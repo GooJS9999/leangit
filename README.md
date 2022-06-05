@@ -14,7 +14,21 @@
 
 ### ps
 
+
+>ps명령어는 사용중인 프로세서 목록과 상태를 보여준다.
+[출저](https://jhnyang.tistory.com/268)
+
+#### 사용예시
+<img width="400" alt="스크린샷 2022-06-05 오후 9 14 43" src="https://user-images.githubusercontent.com/89345428/172049932-11cc9f95-a4c7-43c7-915b-e45453b15de2.png">
+
+
 ### jobs
+
+>jobs명령어는 작업의 상태를 보여주는 명령어이다.
+[출저](https://hbase.tistory.com/265)
+
+#### 사용예시
+
 
 ### kill
 
