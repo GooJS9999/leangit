@@ -28,11 +28,23 @@
 [출저](https://hbase.tistory.com/265)
 
 #### 사용예시
+<img width="400" alt="스크린샷 2022-06-05 오후 9 19 27" src="https://user-images.githubusercontent.com/89345428/172050072-94d474c4-a626-4f8c-aed7-d6bbd195927e.png">
 
 
 ### kill
 
+>kill명령어는 프로그램을 프로세서를 안전하게 강제종료하는 명령어 입니다.
+[출처](https://sisiblog.tistory.com/209)
+
+#### 사용예시
+<img width="400" alt="스크린샷 2022-06-05 오후 9 22 33" src="https://user-images.githubusercontent.com/89345428/172050166-1b5c939d-02da-4a49-8f3c-47425f92ba77.png">
+
+
 ## vim 에디터
 
 ### 매크로 사용 방법(q)
+
+>vim의 중립모드에서 q를 누른 뒤, 매크로의 이름을 입력한다, 그리고 매크로의 명령어를 입력 한 뒤, 다시 중립모드에서 q를 눌러 매크로를 종료한다.
+>그 뒤 @매크로이름을 입력하면 매크로가 실행된다.
+[출처](https://forcecore.tistory.com/1255)
 
